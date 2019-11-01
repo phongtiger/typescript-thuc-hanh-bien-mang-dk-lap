@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8b4bac3d-879b-4844-b37d-f0a1f1d216bc" name="Default Changelist" comment="" />
+    <list default="true" id="8b4bac3d-879b-4844-b37d-f0a1f1d216bc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello.html" beforeDir="false" afterPath="$PROJECT_DIR$/hello.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xcvxcvx.html" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,16 +15,21 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="TypeScript File" />
         <option value="HTML File" />
+        <option value="XSLT Stylesheet" />
+        <option value="TypeScript File" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1SdHd3P28jSWMXRWFWTct5fyfXt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../doituong" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="settings.typescriptcompiler" />
     <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
   </component>
@@ -49,7 +58,8 @@
       <workItem from="1571886638229" duration="3227000" />
       <workItem from="1571891207885" duration="3722000" />
       <workItem from="1572617063799" duration="77000" />
-      <workItem from="1572617524888" duration="349000" />
+      <workItem from="1572617524888" duration="595000" />
+      <workItem from="1572618121111" duration="760000" />
     </task>
     <servers />
   </component>
@@ -59,7 +69,23 @@
       <list>
         <option value="$PROJECT_DIR$/demo.js" />
         <option value="$PROJECT_DIR$/demo.js" />
+        <option value="$PROJECT_DIR$/bienkieudulieu.js" />
+        <option value="$PROJECT_DIR$/caudieukienvonglap.js" />
+        <option value="$PROJECT_DIR$/mang.js" />
       </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
     </option>
   </component>
 </project>
